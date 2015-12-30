@@ -1,5 +1,5 @@
 # JavaAOP
-###Ò»¸öÊ¹ÓÃJDK¶¯Ì¬´úÀíÊµÏÖµÄAOPĞ¡Demo,·îÏ×¸ø³õÑ§Õß
+###ä¸€ä¸ªä½¿ç”¨JDKåŠ¨æ€ä»£ç†å®ç°çš„AOPå°Demo,å¥‰çŒ®ç»™åˆå­¦è€…
 
-¿´£¬²©¿Í(http://www.zhaoguilin.com<br />  
+çœ‹ï¼Œåšå®¢http://www.zhaoguilin.com<br />  
 
